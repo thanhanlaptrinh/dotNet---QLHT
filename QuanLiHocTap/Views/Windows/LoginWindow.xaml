@@ -1,0 +1,29 @@
+﻿<Window x:Class="QuanLiHocTap.Views.Windows.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuanLiHocTap.Views.Windows"
+        mc:Ignorable="d"
+        Title="LoginWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="50,50,50,50">
+            <TextBlock HorizontalAlignment="Center" Margin="0,30,0,0" TextWrapping="Wrap" Text="Đăng Nhập" VerticalAlignment="Top" FontSize="36" FontWeight="Bold"/>
+            <Grid Margin="50,50,50,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.Column="0">
+                    <TextBlock Text="Tên đăng nhập:" FontSize="24" FontWeight="Bold"/>
+                    <TextBlock Text="Mật khẩu:" FontSize="24" FontWeight="Bold" Margin="0,20,0,0"/>
+                </StackPanel>
+                <StackPanel Grid.Column="1">
+                    <TextBox Name="txtUsername" FontSize="24"/>
+                    <PasswordBox Name="txtPassword" FontSize="24" Margin="0,20,0,0"/>
+                </StackPanel>
+            </Grid>
+            <Button Content="Đăng Nhập" HorizontalAlignment="Center" Margin="0,50,0,0" FontSize="24" FontWeight="Bold" Width="150" Click="buttonLogin_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

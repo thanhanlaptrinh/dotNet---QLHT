@@ -1,0 +1,551 @@
+﻿<UserControl x:Class="QuanLiHocTap.Views.DashboardView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QuanLiHocTap.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="900" d:DesignWidth="1170"
+             Background="#F8FAFC">
+
+    <Grid Margin="15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <UniformGrid Grid.Row="0" Columns="4" Margin="0,0,0,15">
+            <Border Background="White" CornerRadius="12" Padding="15" Margin="0,0,8,0" BorderThickness="1" BorderBrush="#E0E6ED">
+                <Border.Effect>
+                    <DropShadowEffect BlurRadius="10" ShadowDepth="1" Opacity="0.02"/>
+                </Border.Effect>
+                <Grid>
+                    <StackPanel VerticalAlignment="Center">
+                        <TextBlock Text="HỌC VIÊN" FontSize="11" FontWeight="Bold" Foreground="#94A3B8"/>
+                        <TextBlock Text="{Binding TotalStudents}" FontSize="28" FontWeight="Bold" Foreground="#1E293B" Margin="0,4,0,2"/>
+                        <TextBlock Text="Đang học HK1" FontSize="11" Foreground="#64748B"/>
+                    </StackPanel>
+                    <Border Width="40" Height="40" Background="#EEF2FF" CornerRadius="8" HorizontalAlignment="Right" VerticalAlignment="Center">
+                        <TextBlock Text="👤" Foreground="#4F46E5" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </Grid>
+            </Border>
+
+            <Border Background="White" CornerRadius="12" Padding="15" Margin="4,0,4,0" BorderThickness="1" BorderBrush="#E0E6ED">
+                <Border.Effect>
+                    <DropShadowEffect BlurRadius="10" ShadowDepth="1" Opacity="0.02"/>
+                </Border.Effect>
+                <Grid>
+                    <StackPanel VerticalAlignment="Center">
+                        <TextBlock Text="ĐĂNG KÝ" FontSize="11" FontWeight="Bold" Foreground="#94A3B8"/>
+                        <TextBlock Text="{Binding TotalEnrollments}" FontSize="28" FontWeight="Bold" Foreground="#1E293B" Margin="0,4,0,2"/>
+                        <TextBlock Text="Enrollment active" FontSize="11" Foreground="#64748B"/>
+                    </StackPanel>
+                    <Border Width="40" Height="40" Background="#ECFDF5" CornerRadius="8" HorizontalAlignment="Right" VerticalAlignment="Center">
+                        <TextBlock Text="✓" Foreground="#059669" FontSize="18" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </Grid>
+            </Border>
+
+            <Border Background="White" CornerRadius="12" Padding="15" Margin="4,0,4,0" BorderThickness="1" BorderBrush="#E0E6ED">
+                <Border.Effect>
+                    <DropShadowEffect BlurRadius="10" ShadowDepth="1" Opacity="0.02"/>
+                </Border.Effect>
+                <Grid>
+                    <StackPanel VerticalAlignment="Center">
+                        <TextBlock Text="CHỜ DUYỆT ĐIỂM" FontSize="11" FontWeight="Bold" Foreground="#94A3B8"/>
+                        <TextBlock Text="{Binding PendingGradesCount}" FontSize="28" FontWeight="Bold" Foreground="#1E293B" Margin="0,4,0,2"/>
+                        <TextBlock Text="Lớp cần phê duyệt" FontSize="11" Foreground="#64748B"/>
+                    </StackPanel>
+                    <Border Width="40" Height="40" Background="#FFFBEB" CornerRadius="8" HorizontalAlignment="Right" VerticalAlignment="Center">
+                        <TextBlock Text="📄" Foreground="#D97706" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </Grid>
+            </Border>
+
+            <Border Background="White" CornerRadius="12" Padding="15" Margin="8,0,0,0" BorderThickness="1" BorderBrush="#E0E6ED">
+                <Border.Effect>
+                    <DropShadowEffect BlurRadius="10" ShadowDepth="1" Opacity="0.02"/>
+                </Border.Effect>
+                <Grid>
+                    <StackPanel VerticalAlignment="Center">
+                        <TextBlock Text="PHÚC KHẢO" FontSize="11" FontWeight="Bold" Foreground="#94A3B8"/>
+                        <TextBlock Text="{Binding ReviewRequestsCount}" FontSize="28" FontWeight="Bold" Foreground="#1E293B" Margin="0,4,0,2"/>
+                        <TextBlock Text="Cần xử lý" FontSize="11" Foreground="#64748B"/>
+                    </StackPanel>
+                    <Border Width="40" Height="40" Background="#FEF2F2" CornerRadius="8" HorizontalAlignment="Right" VerticalAlignment="Center">
+                        <TextBlock Text="🕒" Foreground="#DC2626" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </Grid>
+            </Border>
+        </UniformGrid>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="6.5*"/>
+                <ColumnDefinition Width="3.5*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid Grid.Column="0" Margin="0,0,8,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1.2*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Border Grid.Row="0" Background="White" CornerRadius="12" Padding="15" Margin="0,0,0,15" BorderThickness="1" BorderBrush="#E0E6ED">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+
+                        <DockPanel Grid.Row="0" Margin="0,0,0,10">
+                            <TextBlock Text="Trạng thái điểm — HK1 2025-2026" FontSize="15" FontWeight="Bold" Foreground="#1E293B" VerticalAlignment="Center"/>
+                            <Button HorizontalAlignment="Right" Content="Xem tất cả →" Background="Transparent" Foreground="#1A73E8" BorderThickness="0" FontWeight="SemiBold" FontSize="12" DockPanel.Dock="Right" VerticalAlignment="Center" Cursor="Hand"/>
+                        </DockPanel>
+
+                        <DataGrid Grid.Row="1" ItemsSource="{Binding GradeStatuses}" AutoGenerateColumns="False" CanUserAddRows="False"
+                                  HeadersVisibility="Column" GridLinesVisibility="Horizontal" HorizontalGridLinesBrush="#F1F5F9"
+                                  Background="Transparent" BorderThickness="0" RowHeight="50" IsReadOnly="True">
+
+                            <DataGrid.ColumnHeaderStyle>
+                                <Style TargetType="DataGridColumnHeader">
+                                    <Setter Property="Background" Value="#F8FAFC"/>
+                                    <Setter Property="Foreground" Value="#94A3B8"/>
+                                    <Setter Property="FontWeight" Value="Bold"/>
+                                    <Setter Property="Padding" Value="10,6"/>
+                                    <Setter Property="BorderThickness" Value="0,0,0,1"/>
+                                    <Setter Property="BorderBrush" Value="#E2E8F0"/>
+                                    <Setter Property="FontSize" Value="11"/>
+                                </Style>
+                            </DataGrid.ColumnHeaderStyle>
+
+                            <DataGrid.RowStyle>
+                                <Style TargetType="DataGridRow">
+                                    <Setter Property="Background" Value="Transparent"/>
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Background" Value="#F8FAFC"/>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </DataGrid.RowStyle>
+
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="MÔN HỌC / LỚP" Binding="{Binding CourseClass}" Width="*">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="VerticalAlignment" Value="Center"/>
+                                            <Setter Property="FontWeight" Value="Bold"/>
+                                            <Setter Property="Foreground" Value="#1E293B"/>
+                                            <Setter Property="Margin" Value="10,0"/>
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+
+                                <DataGridTextColumn Header="GV PHỤ TRÁCH" Binding="{Binding Lecturer}" Width="150">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="VerticalAlignment" Value="Center"/>
+                                            <Setter Property="Foreground" Value="#64748B"/>
+                                            <Setter Property="Margin" Value="10,0"/>
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+
+                                <DataGridTemplateColumn Header="TRẠNG THÁI" Width="120">
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="10,0">
+                                                <Ellipse Width="8" Height="8" VerticalAlignment="Center" Margin="0,0,6,0">
+                                                    <Ellipse.Style>
+                                                        <Style TargetType="Ellipse">
+                                                            <Style.Triggers>
+                                                                <DataTrigger Binding="{Binding Status}" Value="Submitted">
+                                                                    <Setter Property="Fill" Value="#3B82F6"/>
+                                                                </DataTrigger>
+                                                                <DataTrigger Binding="{Binding Status}" Value="Approved">
+                                                                    <Setter Property="Fill" Value="#F59E0B"/>
+                                                                </DataTrigger>
+                                                                <DataTrigger Binding="{Binding Status}" Value="Published">
+                                                                    <Setter Property="Fill" Value="#10B981"/>
+                                                                </DataTrigger>
+                                                                <DataTrigger Binding="{Binding Status}" Value="Draft">
+                                                                    <Setter Property="Fill" Value="#94A3B8"/>
+                                                                </DataTrigger>
+                                                            </Style.Triggers>
+                                                        </Style>
+                                                    </Ellipse.Style>
+                                                </Ellipse>
+                                                <TextBlock Text="{Binding Status}" FontWeight="SemiBold" FontSize="11">
+                                                    <TextBlock.Style>
+                                                        <Style TargetType="TextBlock">
+                                                            <Style.Triggers>
+                                                                <DataTrigger Binding="{Binding Status}" Value="Submitted">
+                                                                    <Setter Property="Foreground" Value="#2563EB"/>
+                                                                </DataTrigger>
+                                                                <DataTrigger Binding="{Binding Status}" Value="Approved">
+                                                                    <Setter Property="Foreground" Value="#D97706"/>
+                                                                </DataTrigger>
+                                                                <DataTrigger Binding="{Binding Status}" Value="Published">
+                                                                    <Setter Property="Foreground" Value="#059669"/>
+                                                                </DataTrigger>
+                                                                <DataTrigger Binding="{Binding Status}" Value="Draft">
+                                                                    <Setter Property="Foreground" Value="#475569"/>
+                                                                </DataTrigger>
+                                                            </Style.Triggers>
+                                                        </Style>
+                                                    </TextBlock.Style>
+                                                </TextBlock>
+                                            </StackPanel>
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+
+                                <DataGridTemplateColumn Header="HÀNH ĐỘNG" Width="110">
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Button Height="28" Padding="12,0" FontSize="11" FontWeight="SemiBold" Cursor="Hand">
+                                                <Button.Style>
+                                                    <Style TargetType="Button">
+                                                        <Style.Triggers>
+                                                            <DataTrigger Binding="{Binding Status}" Value="Submitted">
+                                                                <Setter Property="Content" Value="Duyệt →"/>
+                                                                <Setter Property="Background" Value="#D97706"/>
+                                                                <Setter Property="Foreground" Value="White"/>
+                                                                <Setter Property="BorderThickness" Value="0"/>
+                                                            </DataTrigger>
+                                                            <DataTrigger Binding="{Binding Status}" Value="Approved">
+                                                                <Setter Property="Content" Value="Công bố"/>
+                                                                <Setter Property="Background" Value="#10B981"/>
+                                                                <Setter Property="Foreground" Value="White"/>
+                                                                <Setter Property="BorderThickness" Value="0"/>
+                                                            </DataTrigger>
+                                                            <DataTrigger Binding="{Binding Status}" Value="Published">
+                                                                <Setter Property="Content" Value="✓ Xong"/>
+                                                                <Setter Property="Background" Value="Transparent"/>
+                                                                <Setter Property="Foreground" Value="#059669"/>
+                                                                <Setter Property="BorderThickness" Value="0"/>
+                                                                <Setter Property="IsEnabled" Value="False"/>
+                                                            </DataTrigger>
+                                                            <DataTrigger Binding="{Binding Status}" Value="Draft">
+                                                                <Setter Property="Content" Value="Nhập →"/>
+                                                                <Setter Property="Background" Value="White"/>
+                                                                <Setter Property="Foreground" Value="#475569"/>
+                                                                <Setter Property="BorderBrush" Value="#E2E8F0"/>
+                                                                <Setter Property="BorderThickness" Value="1"/>
+                                                            </DataTrigger>
+                                                        </Style.Triggers>
+                                                    </Style>
+                                                </Button.Style>
+                                                <Button.Resources>
+                                                    <Style TargetType="Border">
+                                                        <Setter Property="CornerRadius" Value="4"/>
+                                                    </Style>
+                                                </Button.Resources>
+                                            </Button>
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </Grid>
+                </Border>
+
+                <Border Grid.Row="1" Background="White" CornerRadius="12" Padding="15" BorderThickness="1" BorderBrush="#E0E6ED">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+
+                        <TextBlock Grid.Row="0" Text="Đăng ký gần đây" FontSize="15" FontWeight="Bold" Foreground="#1E293B" Margin="0,0,0,10"/>
+
+                        <DataGrid Grid.Row="1" ItemsSource="{Binding RecentRegistrations}" AutoGenerateColumns="False" CanUserAddRows="False"
+                                  HeadersVisibility="Column" GridLinesVisibility="Horizontal" HorizontalGridLinesBrush="#F1F5F9"
+                                  Background="Transparent" BorderThickness="0" RowHeight="48" IsReadOnly="True">
+
+                            <DataGrid.ColumnHeaderStyle>
+                                <Style TargetType="DataGridColumnHeader">
+                                    <Setter Property="Background" Value="#F8FAFC"/>
+                                    <Setter Property="Foreground" Value="#94A3B8"/>
+                                    <Setter Property="FontWeight" Value="Bold"/>
+                                    <Setter Property="Padding" Value="10,6"/>
+                                    <Setter Property="BorderThickness" Value="0,0,0,1"/>
+                                    <Setter Property="BorderBrush" Value="#E2E8F0"/>
+                                    <Setter Property="FontSize" Value="11"/>
+                                </Style>
+                            </DataGrid.ColumnHeaderStyle>
+
+                            <DataGrid.RowStyle>
+                                <Style TargetType="DataGridRow">
+                                    <Setter Property="Background" Value="Transparent"/>
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Background" Value="#F8FAFC"/>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </DataGrid.RowStyle>
+
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="HỌC VIÊN" Binding="{Binding StudentName}" Width="150">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="VerticalAlignment" Value="Center"/>
+                                            <Setter Property="FontWeight" Value="SemiBold"/>
+                                            <Setter Property="Foreground" Value="#1E293B"/>
+                                            <Setter Property="Margin" Value="10,0"/>
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+
+                                <DataGridTextColumn Header="HỌC PHẦN" Binding="{Binding CourseName}" Width="*">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="VerticalAlignment" Value="Center"/>
+                                            <Setter Property="Foreground" Value="#475569"/>
+                                            <Setter Property="Margin" Value="10,0"/>
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+
+                                <DataGridTextColumn Header="NGÀY ĐĂNG KÝ" Binding="{Binding RegistrationDate, StringFormat=dd/MM/yyyy}" Width="130">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="VerticalAlignment" Value="Center"/>
+                                            <Setter Property="Foreground" Value="#64748B"/>
+                                            <Setter Property="Margin" Value="10,0"/>
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+
+                                <DataGridTemplateColumn Header="TRẠNG THÁI" Width="120">
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Border CornerRadius="10" Padding="8,3" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="10,0">
+                                                <Border.Style>
+                                                    <Style TargetType="Border">
+                                                        <Style.Triggers>
+                                                            <DataTrigger Binding="{Binding Status}" Value="Đã đăng ký">
+                                                                <Setter Property="Background" Value="#E6F4EA"/>
+                                                            </DataTrigger>
+                                                            <DataTrigger Binding="{Binding Status}" Value="Chờ xác nhận">
+                                                                <Setter Property="Background" Value="#FEF7E0"/>
+                                                            </DataTrigger>
+                                                        </Style.Triggers>
+                                                    </Style>
+                                                </Border.Style>
+                                                <TextBlock Text="{Binding Status}" FontSize="11" FontWeight="Bold">
+                                                    <TextBlock.Style>
+                                                        <Style TargetType="TextBlock">
+                                                            <Style.Triggers>
+                                                                <DataTrigger Binding="{Binding Status}" Value="Đã đăng ký">
+                                                                    <Setter Property="Foreground" Value="#137333"/>
+                                                                </DataTrigger>
+                                                                <DataTrigger Binding="{Binding Status}" Value="Chờ xác nhận">
+                                                                    <Setter Property="Foreground" Value="#B06000"/>
+                                                                </DataTrigger>
+                                                            </Style.Triggers>
+                                                        </Style>
+                                                    </TextBlock.Style>
+                                                </TextBlock>
+                                            </Border>
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </Grid>
+                </Border>
+            </Grid>
+
+            <Grid Grid.Column="1" Margin="8,0,0,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Border Grid.Row="0" Background="White" CornerRadius="12" Padding="20" Margin="0,0,0,15" BorderThickness="1" BorderBrush="#E0E6ED">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+
+                        <TextBlock Grid.Row="0" Text="Workflow điểm" FontSize="15" FontWeight="Bold" Foreground="#1E293B" Margin="0,0,0,15"/>
+
+                        <ItemsControl Grid.Row="1" ItemsSource="{Binding WorkflowSteps}">
+                            <ItemsControl.ItemTemplate>
+                                <DataTemplate>
+                                    <Grid Margin="0,0,0,12">
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="Auto"/>
+                                            <RowDefinition Height="Auto"/>
+                                        </Grid.RowDefinitions>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="*"/>
+                                            <ColumnDefinition Width="Auto"/>
+                                        </Grid.ColumnDefinitions>
+
+                                        <Border Grid.Row="0" Grid.Column="0" CornerRadius="10" Padding="8,2" HorizontalAlignment="Left" Margin="0,0,0,6">
+                                            <Border.Style>
+                                                <Style TargetType="Border">
+                                                    <Style.Triggers>
+                                                        <DataTrigger Binding="{Binding StepName}" Value="Draft">
+                                                            <Setter Property="Background" Value="#F1F3F4"/>
+                                                        </DataTrigger>
+                                                        <DataTrigger Binding="{Binding StepName}" Value="Submitted">
+                                                            <Setter Property="Background" Value="#E8F0FE"/>
+                                                        </DataTrigger>
+                                                        <DataTrigger Binding="{Binding StepName}" Value="Approved">
+                                                            <Setter Property="Background" Value="#FEF7E0"/>
+                                                        </DataTrigger>
+                                                        <DataTrigger Binding="{Binding StepName}" Value="Published">
+                                                            <Setter Property="Background" Value="#E6F4EA"/>
+                                                        </DataTrigger>
+                                                    </Style.Triggers>
+                                                </Style>
+                                            </Border.Style>
+                                            <TextBlock Text="{Binding StepName}" FontSize="11" FontWeight="Bold">
+                                                <TextBlock.Style>
+                                                    <Style TargetType="TextBlock">
+                                                        <Style.Triggers>
+                                                            <DataTrigger Binding="{Binding StepName}" Value="Draft">
+                                                                <Setter Property="Foreground" Value="#5F6368"/>
+                                                            </DataTrigger>
+                                                            <DataTrigger Binding="{Binding StepName}" Value="Submitted">
+                                                                <Setter Property="Foreground" Value="#1967D2"/>
+                                                            </DataTrigger>
+                                                            <DataTrigger Binding="{Binding StepName}" Value="Approved">
+                                                                <Setter Property="Foreground" Value="#B06000"/>
+                                                            </DataTrigger>
+                                                            <DataTrigger Binding="{Binding StepName}" Value="Published">
+                                                                <Setter Property="Foreground" Value="#137333"/>
+                                                            </DataTrigger>
+                                                        </Style.Triggers>
+                                                    </Style>
+                                                </TextBlock.Style>
+                                            </TextBlock>
+                                        </Border>
+
+                                        <TextBlock Grid.Row="0" Grid.Column="1" Text="{Binding Count}" FontSize="18" FontWeight="Bold" Foreground="#1E293B" HorizontalAlignment="Right" VerticalAlignment="Bottom"/>
+
+                                        <ProgressBar Grid.Row="1" Grid.ColumnSpan="2" Value="{Binding Count}" Maximum="10" Height="6" BorderThickness="0" Background="#F1F3F4" Margin="0,2,0,0">
+                                            <ProgressBar.Style>
+                                                <Style TargetType="ProgressBar">
+                                                    <Setter Property="Foreground" Value="#94A3B8"/>
+
+                                                    <Style.Triggers>
+                                                        <DataTrigger Binding="{Binding StepName}" Value="Draft">
+                                                            <Setter Property="Foreground" Value="#94A3B8"/>
+                                                        </DataTrigger>
+
+                                                        <DataTrigger Binding="{Binding StepName}" Value="Submitted">
+                                                            <Setter Property="Foreground" Value="#3B82F6"/>
+                                                        </DataTrigger>
+
+                                                        <DataTrigger Binding="{Binding StepName}" Value="Approved">
+                                                            <Setter Property="Foreground" Value="#F59E0B"/>
+                                                        </DataTrigger>
+
+                                                        <DataTrigger Binding="{Binding StepName}" Value="Published">
+                                                            <Setter Property="Foreground" Value="#10B981"/>
+                                                        </DataTrigger>
+                                                    </Style.Triggers>
+                                                </Style>
+                                            </ProgressBar.Style>
+                                        </ProgressBar>
+                                    </Grid>
+                                </DataTemplate>
+                            </ItemsControl.ItemTemplate>
+                        </ItemsControl>
+                    </Grid>
+                </Border>
+
+                <Border Grid.Row="1" Background="White" CornerRadius="12" Padding="20" Margin="0,0,0,15" BorderThickness="1" BorderBrush="#E0E6ED">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+
+                        <TextBlock Grid.Row="0" Text="Tín chỉ đã đăng ký" FontSize="15" FontWeight="Bold" Foreground="#1E293B" Margin="0,0,0,15"/>
+
+                        <TextBlock Grid.Row="1" Margin="0,0,0,10" Foreground="#94A3B8" FontSize="12">
+                            <Run Text="Tổng đăng ký / Tối đa cho phép" />
+                        </TextBlock>
+
+                        <StackPanel Grid.Row="2" Orientation="Horizontal" Margin="0,0,0,12">
+                            <TextBlock Text="{Binding RegisteredCredits}" FontSize="24" FontWeight="Bold" Foreground="#1A73E8" VerticalAlignment="Bottom"/>
+                            <TextBlock Text=" / 15 tín chỉ" FontSize="13" Foreground="#64748B" VerticalAlignment="Bottom" Margin="4,0,0,4"/>
+                        </StackPanel>
+
+                        <StackPanel Grid.Row="3">
+                            <ProgressBar Value="{Binding RegisteredCredits}" Maximum="15" Height="8" BorderThickness="0" Background="#F1F3F4" Foreground="#1A73E8">
+                                <ProgressBar.Resources>
+                                    <Style TargetType="Border">
+                                        <Setter Property="CornerRadius" Value="4"/>
+                                    </Style>
+                                </ProgressBar.Resources>
+                            </ProgressBar>
+                            <TextBlock Text="Còn lại 6 tín chỉ có thể đăng ký" FontSize="11" Foreground="#94A3B8" Margin="0,8,0,0"/>
+                        </StackPanel>
+                    </Grid>
+                </Border>
+
+                <!--<Border Grid.Row="2" Background="White" CornerRadius="12" Padding="20" BorderThickness="1" BorderBrush="#E0E6ED">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+
+                        <TextBlock Grid.Row="0" Text="Hành động nhanh" FontSize="15" FontWeight="Bold" Foreground="#1E293B" Margin="0,0,0,15"/>
+
+                        <StackPanel Grid.Row="1" VerticalAlignment="Center">
+                            <Button Background="#2563EB" Foreground="White" BorderThickness="0" Padding="15" Margin="0,0,0,10" Height="45" Cursor="Hand">
+                                <Button.Resources>
+                                    <Style TargetType="Border">
+                                        <Setter Property="CornerRadius" Value="8"/>
+                                    </Style>
+                                </Button.Resources>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="⊕" Margin="0,0,8,0" FontWeight="Bold" FontSize="14" VerticalAlignment="Center"/>
+                                    <TextBlock Text="Đăng ký học phần mới" FontWeight="Bold" FontSize="13" VerticalAlignment="Center"/>
+                                </StackPanel>
+                            </Button>
+
+                            <Button Background="#D97706" Foreground="White" BorderThickness="0" Padding="15" Margin="0,0,0,10" Height="45" Cursor="Hand">
+                                <Button.Resources>
+                                    <Style TargetType="Border">
+                                        <Setter Property="CornerRadius" Value="8"/>
+                                    </Style>
+                                </Button.Resources>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="✏" Margin="0,0,8,0" FontSize="12" VerticalAlignment="Center"/>
+                                    <TextBlock Text="Nhập điểm học phần" FontWeight="Bold" FontSize="13" VerticalAlignment="Center"/>
+                                </StackPanel>
+                            </Button>
+
+                            <Button Background="White" Foreground="#475569" BorderBrush="#DEE2E6" BorderThickness="1" Padding="15" Height="45" Cursor="Hand">
+                                <Button.Resources>
+                                    <Style TargetType="Border">
+                                        <Setter Property="CornerRadius" Value="8"/>
+                                    </Style>
+                                </Button.Resources>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="📄" Margin="0,0,8,0" FontSize="12" VerticalAlignment="Center"/>
+                                    <TextBlock Text="Xem bảng điểm" FontWeight="Bold" FontSize="13" VerticalAlignment="Center"/>
+                                </StackPanel>
+                            </Button>
+                        </StackPanel>
+                    </Grid>
+                </Border>-->
+            </Grid>
+        </Grid>
+    </Grid>
+</UserControl>
