@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\ViewModel\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\ViewModel\\BaseViewModel.cs",
+              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\ViewModel\\BaseViewModel.cs",
+              "RelativeToolTip": "QuanLiHocTap\\ViewModel\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T17:28:52.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
