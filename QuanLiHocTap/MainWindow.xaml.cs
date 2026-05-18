@@ -1,4 +1,6 @@
-﻿using QuanLiHocTap.Views;
+﻿using Microsoft.CognitiveServices.Speech;
+using QuanLiHocTap.Data;
+using QuanLiHocTap.Views;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
@@ -22,6 +24,7 @@ namespace QuanLiHocTap
             InitializeComponent();
             this.WindowState = WindowState.Maximized;
             MainContent.Content = new DashboardView();
+            
         }
 
         //////////////////////////////////////////////////////////////////////////////////////////////

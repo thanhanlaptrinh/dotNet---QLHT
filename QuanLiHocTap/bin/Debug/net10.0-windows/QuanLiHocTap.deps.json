@@ -10,6 +10,7 @@
         "dependencies": {
           "MaterialDesignThemes": "5.3.2",
           "Microsoft.CognitiveServices.Speech": "1.49.1",
+          "Microsoft.EntityFrameworkCore": "10.0.8",
           "Microsoft.EntityFrameworkCore.SqlServer": "10.0.8",
           "Microsoft.EntityFrameworkCore.Tools": "10.0.8"
         },

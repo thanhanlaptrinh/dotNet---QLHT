@@ -53,7 +53,7 @@ namespace QuanLiHocTap.Views.Windows {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/QuanLiHocTap;V1.0.0.0;component/views/windows/sidebar.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/QuanLiHocTap;component/views/windows/sidebar.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Views\Windows\SideBar.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
