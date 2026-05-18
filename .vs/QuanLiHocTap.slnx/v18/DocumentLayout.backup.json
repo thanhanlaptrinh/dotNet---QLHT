@@ -58,7 +58,8 @@
               "RelativeToolTip": "QuanLiHocTap\\Repository\\StudentRepository.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T17:42:39.496Z"
+              "WhenOpened": "2026-05-18T17:42:39.496Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -70,7 +71,8 @@
               "RelativeToolTip": "QuanLiHocTap\\Repository\\Enrollment.Repository.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T17:58:06.838Z"
+              "WhenOpened": "2026-05-18T17:58:06.838Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -80,7 +82,7 @@
               "RelativeDocumentMoniker": "QuanLiHocTap\\ViewModel\\DashboardViewModel.cs",
               "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\ViewModel\\DashboardViewModel.cs",
               "RelativeToolTip": "QuanLiHocTap\\ViewModel\\DashboardViewModel.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAkwDMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwCQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T17:48:35.423Z",
               "EditorCaption": ""
@@ -94,7 +96,8 @@
               "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Views\\OfferingBrowserView.xaml",
               "RelativeToolTip": "QuanLiHocTap\\Views\\OfferingBrowserView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-18T17:48:10.753Z"
+              "WhenOpened": "2026-05-18T17:48:10.753Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -118,7 +121,8 @@
               "RelativeToolTip": "QuanLiHocTap\\Views\\DashboardView.xaml.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T17:44:52.023Z"
+              "WhenOpened": "2026-05-18T17:44:52.023Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -142,7 +146,8 @@
               "RelativeToolTip": "QuanLiHocTap\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T17:42:41.56Z"
+              "WhenOpened": "2026-05-18T17:42:41.56Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -154,7 +159,8 @@
               "RelativeToolTip": "QuanLiHocTap\\ViewModel\\BaseViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T17:28:52.123Z"
+              "WhenOpened": "2026-05-18T17:28:52.123Z",
+              "EditorCaption": ""
             }
           ]
         }

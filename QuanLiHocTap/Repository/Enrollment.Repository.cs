@@ -7,16 +7,15 @@ using QuanLiHocTap.Data;
 
 namespace QuanLiHocTap.Repository
 {
-    public class StudentRepository
+    public class EnrollmentRepository
     {
         AppDbContext db;
-        public StudentRepository()
-        {
+        public EnrollmentRepository() {
             db = new AppDbContext();
         }
-        public int Count_Students()
+        public int Count_Enrollment()
         {
-            return db.Students.Count();
+            return db.Enrollments.Count();
         }
     }
 

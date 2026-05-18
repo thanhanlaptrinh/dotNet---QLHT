@@ -14,5 +14,6 @@ namespace QuanLiHocTap.ViewModel
         {
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
+
     }
 }

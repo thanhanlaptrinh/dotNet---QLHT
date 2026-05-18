@@ -17,7 +17,7 @@ CREATE DATABASE AcademicManagementDB
 ON PRIMARY 
 (
     NAME = AcademicManagement_Data,
-    FILENAME = 'C:\Study\.Net\Doan\DB_QLHT\AcademicManagement_Data.mdf', 
+    FILENAME = 'D:\DO AN HOC PHAN LOP\DOT NET(HK2-2026)\DataLOGPRIMARY\AcademicManagement_Data.mdf', 
     SIZE = 50MB,          -- Kích thước khởi tạo ban đầu cho dữ liệu
     MAXSIZE = 500MB,      -- Giới hạn tối đa để bảo vệ ổ đĩa
     FILEGROWTH = 10MB     -- Tự động tăng thêm mỗi lần 10MB khi bị đầy
@@ -25,7 +25,7 @@ ON PRIMARY
 LOG ON
 (
     NAME = AcademicManagement_Log,
-    FILENAME = 'C:\Study\.Net\Doan\DB_QLHT\AcademicManagement_Log.ldf',
+    FILENAME = 'D:\DO AN HOC PHAN LOP\DOT NET(HK2-2026)\DataLOGPRIMARY\AcademicManagement_Log.ldf',
     SIZE = 20MB,          -- Kích thước khởi tạo ban đầu cho file Log
     MAXSIZE = 100MB,      -- Giới hạn tối đa cho file Log
     FILEGROWTH = 5MB      -- Tự động tăng thêm mỗi lần 5MB
