@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q6NeCsUWL5g=",
+  "dgSpecHash": "uTWQ0pBb/g8=",
   "success": true,
-  "projectFilePath": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\QuanLiHocTap.csproj",
+  "projectFilePath": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\QuanLiHocTap.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thanh\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

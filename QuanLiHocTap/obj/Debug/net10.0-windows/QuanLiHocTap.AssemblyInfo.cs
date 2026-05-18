@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuanLiHocTap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73423c98cec382f10b2c6a5f5ff4535bfd4f302e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+804fb3babe9dd49156c13c5550e7752efd9fc3b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuanLiHocTap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuanLiHocTap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

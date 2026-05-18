@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\QuanLiHocTap.csproj": {}
+    "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\QuanLiHocTap.csproj": {}
   },
   "projects": {
-    "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\QuanLiHocTap.csproj": {
+    "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\QuanLiHocTap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\QuanLiHocTap.csproj",
+        "projectUniqueName": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\QuanLiHocTap.csproj",
         "projectName": "QuanLiHocTap",
-        "projectPath": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\QuanLiHocTap.csproj",
+        "projectPath": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\QuanLiHocTap.csproj",
         "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
-        "outputPath": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\obj\\",
+        "outputPath": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,12 +26,10 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net10.0-windows": {
-            "framework": "net10.0-windows7.0",
+          "net10.0-windows7.0": {
             "targetAlias": "net10.0-windows",
             "projectReferences": {}
           }
@@ -46,11 +44,10 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
-        "net10.0-windows": {
-          "framework": "net10.0-windows7.0",
+        "net10.0-windows7.0": {
           "targetAlias": "net10.0-windows",
           "dependencies": {
             "MaterialDesignThemes": {
@@ -91,7 +88,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
