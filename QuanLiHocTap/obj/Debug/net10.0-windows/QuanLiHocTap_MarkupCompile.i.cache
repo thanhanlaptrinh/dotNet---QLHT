@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Study\.Net\Doan\QuanLiHocTap\QuanLiHocTap\obj\Debug\net10.0-windows\
+D:\DO AN HOC PHAN LOP\DOT NET(HK2-2026)\QLHocTap\dotNet---QLHT\QuanLiHocTap\obj\Debug\net10.0-windows\
 QuanLiHocTap
 none
 false
 TRACE;DEBUG;NET;NET10_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NET10_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Study\.Net\Doan\QuanLiHocTap\QuanLiHocTap\App.xaml
+D:\DO AN HOC PHAN LOP\DOT NET(HK2-2026)\QLHocTap\dotNet---QLHT\QuanLiHocTap\App.xaml
 12799103176
 22-1197994051
 28-2060084588
-240-248783911
+240604039040
 MainWindow.xaml;Views\AccountView.xaml;Views\DashboardView.xaml;Views\EnrollmentManagerView.xaml;Views\GradeApprovalView.xaml;Views\GradeEntryView.xaml;Views\OfferingBrowserView.xaml;Views\RecheckRequestView.xaml;Views\StatisticsView.xaml;Views\TranscriptView.xaml;Views\Windows\LoginWindow.xaml;Views\Windows\SideBar.xaml;
 
 False

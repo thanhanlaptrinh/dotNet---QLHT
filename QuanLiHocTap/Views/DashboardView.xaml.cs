@@ -10,6 +10,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using QuanLiHocTap.Repository;
 
 namespace QuanLiHocTap.Views
 {
@@ -21,6 +22,8 @@ namespace QuanLiHocTap.Views
         public DashboardView()
         {
             InitializeComponent();
+            StudentRepository studentRepository = new StudentRepository();
+            int TotalStudents = studentRepository.Count_Students();
         }
     }
 }
