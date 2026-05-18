@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\data\\mydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|c:\\study\\.net\\doan\\quanlihoctap\\quanlihoctap\\models\\enrollments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\models\\enrollments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|c:\\study\\.net\\doan\\quanlihoctap\\quanlihoctap\\models\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\models\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|c:\\study\\.net\\doan\\quanlihoctap\\quanlihoctap\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -74,16 +82,8 @@
       "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\models\\transcriptsnapshots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|c:\\study\\.net\\doan\\quanlihoctap\\quanlihoctap\\models\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\models\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|c:\\study\\.net\\doan\\quanlihoctap\\quanlihoctap\\models\\gradecomponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\models\\gradecomponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|c:\\study\\.net\\doan\\quanlihoctap\\quanlihoctap\\models\\enrollments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\models\\enrollments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|c:\\study\\.net\\doan\\quanlihoctap\\quanlihoctap\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -105,9 +105,9 @@
               "Title": "MyDataBase.cs",
               "DocumentMoniker": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\Data\\MyDataBase.cs",
               "RelativeDocumentMoniker": "QuanLiHocTap\\Data\\MyDataBase.cs",
-              "ToolTip": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\Data\\MyDataBase.cs",
-              "RelativeToolTip": "QuanLiHocTap\\Data\\MyDataBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\Data\\MyDataBase.cs*",
+              "RelativeToolTip": "QuanLiHocTap\\Data\\MyDataBase.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-17T18:50:55.308Z",
               "EditorCaption": ""
@@ -115,18 +115,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "QuanLiHocTap\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\AssemblyInfo.cs",
-              "RelativeToolTip": "QuanLiHocTap\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T15:15:39.418Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "QuanLiHocTap\\MainWindow.xaml.cs",
@@ -138,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "DashboardView.xaml",
               "DocumentMoniker": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\Views\\DashboardView.xaml",
               "RelativeDocumentMoniker": "QuanLiHocTap\\Views\\DashboardView.xaml",
@@ -150,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\App.xaml.cs",
               "RelativeDocumentMoniker": "QuanLiHocTap\\App.xaml.cs",
@@ -162,7 +150,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "Grades.cs",
+              "DocumentMoniker": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\Models\\Grades.cs",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\Models\\Grades.cs",
+              "ToolTip": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\Models\\Grades.cs",
+              "RelativeToolTip": "QuanLiHocTap\\Models\\Grades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:08:17.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enrollments.cs",
+              "DocumentMoniker": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\Models\\Enrollments.cs",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\Models\\Enrollments.cs",
+              "ToolTip": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\Models\\Enrollments.cs",
+              "RelativeToolTip": "QuanLiHocTap\\Models\\Enrollments.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:00:30.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\AssemblyInfo.cs",
+              "RelativeToolTip": "QuanLiHocTap\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T15:15:39.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "LoginWindow.xaml.cs",
               "DocumentMoniker": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\Views\\Windows\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "QuanLiHocTap\\Views\\Windows\\LoginWindow.xaml.cs",
@@ -174,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "AccountView.xaml",
               "DocumentMoniker": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\Views\\AccountView.xaml",
               "RelativeDocumentMoniker": "QuanLiHocTap\\Views\\AccountView.xaml",
@@ -185,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "GradeEntryView.xaml",
               "DocumentMoniker": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\Views\\GradeEntryView.xaml",
               "RelativeDocumentMoniker": "QuanLiHocTap\\Views\\GradeEntryView.xaml",
@@ -196,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "OfferingBrowserView.xaml",
               "DocumentMoniker": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\Views\\OfferingBrowserView.xaml",
               "RelativeDocumentMoniker": "QuanLiHocTap\\Views\\OfferingBrowserView.xaml",
@@ -207,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "EnrollmentManagerView.xaml",
               "DocumentMoniker": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\Views\\EnrollmentManagerView.xaml",
               "RelativeDocumentMoniker": "QuanLiHocTap\\Views\\EnrollmentManagerView.xaml",
@@ -218,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\Views\\Windows\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "QuanLiHocTap\\Views\\Windows\\LoginWindow.xaml",
@@ -229,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\MainWindow.xaml",
               "RelativeDocumentMoniker": "QuanLiHocTap\\MainWindow.xaml",
@@ -240,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "GradeApprovalView.xaml",
               "DocumentMoniker": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\Views\\GradeApprovalView.xaml",
               "RelativeDocumentMoniker": "QuanLiHocTap\\Views\\GradeApprovalView.xaml",
@@ -251,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "TranscriptView.xaml",
               "DocumentMoniker": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\Views\\TranscriptView.xaml",
               "RelativeDocumentMoniker": "QuanLiHocTap\\Views\\TranscriptView.xaml",
@@ -262,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "StatisticsView.xaml",
               "DocumentMoniker": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\Views\\StatisticsView.xaml",
               "RelativeDocumentMoniker": "QuanLiHocTap\\Views\\StatisticsView.xaml",
@@ -273,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "RecheckRequestView.xaml",
               "DocumentMoniker": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\Views\\RecheckRequestView.xaml",
               "RelativeDocumentMoniker": "QuanLiHocTap\\Views\\RecheckRequestView.xaml",
@@ -284,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "TranscriptSnapshots.cs",
               "DocumentMoniker": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\Models\\TranscriptSnapshots.cs",
               "RelativeDocumentMoniker": "QuanLiHocTap\\Models\\TranscriptSnapshots.cs",
@@ -296,19 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Grades.cs",
-              "DocumentMoniker": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\Models\\Grades.cs",
-              "RelativeDocumentMoniker": "QuanLiHocTap\\Models\\Grades.cs",
-              "ToolTip": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\Models\\Grades.cs",
-              "RelativeToolTip": "QuanLiHocTap\\Models\\Grades.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T08:08:17.462Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "GradeComponents.cs",
               "DocumentMoniker": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\Models\\GradeComponents.cs",
               "RelativeDocumentMoniker": "QuanLiHocTap\\Models\\GradeComponents.cs",
@@ -317,18 +331,6 @@
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwB4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T08:04:30.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Enrollments.cs",
-              "DocumentMoniker": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\Models\\Enrollments.cs",
-              "RelativeDocumentMoniker": "QuanLiHocTap\\Models\\Enrollments.cs",
-              "ToolTip": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\Models\\Enrollments.cs",
-              "RelativeToolTip": "QuanLiHocTap\\Models\\Enrollments.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T08:00:30.818Z"
             },
             {
               "$type": "Document",
@@ -343,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Page.cs",
               "DocumentMoniker": "C:\\Users\\thanh\\AppData\\Local\\Temp\\.vsdbgsrc\\fd8263c088ead77b24c772661da4c35f4d3416b9d90da6f374fb71256a2f8015\\Page.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\thanh\\AppData\\Local\\Temp\\.vsdbgsrc\\fd8263c088ead77b24c772661da4c35f4d3416b9d90da6f374fb71256a2f8015\\Page.cs",

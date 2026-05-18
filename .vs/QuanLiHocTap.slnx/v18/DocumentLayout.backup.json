@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|c:\\study\\.net\\doan\\quanlihoctap\\quanlihoctap\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|c:\\study\\.net\\doan\\quanlihoctap\\quanlihoctap\\data\\mydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\data\\mydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|c:\\study\\.net\\doan\\quanlihoctap\\quanlihoctap\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,14 +102,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\ViewModels\\RelayCommand.cs",
-              "RelativeDocumentMoniker": "QuanLiHocTap\\ViewModels\\RelayCommand.cs",
-              "ToolTip": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\ViewModels\\RelayCommand.cs",
-              "RelativeToolTip": "QuanLiHocTap\\ViewModels\\RelayCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "MyDataBase.cs",
+              "DocumentMoniker": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\Data\\MyDataBase.cs",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\Data\\MyDataBase.cs",
+              "ToolTip": "C:\\Study\\.Net\\Doan\\QuanLiHocTap\\QuanLiHocTap\\Data\\MyDataBase.cs",
+              "RelativeToolTip": "QuanLiHocTap\\Data\\MyDataBase.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T18:36:41.95Z",
+              "WhenOpened": "2026-05-17T18:50:55.308Z",
               "EditorCaption": ""
             },
             {
@@ -134,8 +134,7 @@
               "RelativeToolTip": "QuanLiHocTap\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T15:28:03.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T15:28:03.702Z"
             },
             {
               "$type": "Document",
