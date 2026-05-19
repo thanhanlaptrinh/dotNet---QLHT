@@ -11,6 +11,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using QuanLiHocTap.Helper;
 
 namespace QuanLiHocTap
 {
@@ -23,8 +24,35 @@ namespace QuanLiHocTap
         {
             InitializeComponent();
             this.WindowState = WindowState.Maximized;
+            LoadUser();
             MainContent.Content = new DashboardView();
             
+        }
+        /// /////////////////////////////////////////////////////////////////////////////////////////////
+        private void LoadUser()
+        {
+            txtUserName.Text = GlobalVariable.Username;
+
+            if (string.IsNullOrEmpty(GlobalVariable.Role))
+            {
+                txtUserRole.Text = "Chưa xác định";
+                return;
+            }
+
+            string userRole = GlobalVariable.Role.Trim();
+
+            if (userRole.Equals("Student", StringComparison.OrdinalIgnoreCase))
+            {
+                txtUserRole.Text = "Học sinh";
+            }
+            else if (userRole.Equals("Lecturer", StringComparison.OrdinalIgnoreCase))
+            {
+                txtUserRole.Text = "Giảng viên";
+            }
+            else
+            {
+                txtUserRole.Text = "Admin";
+            }
         }
 
         //////////////////////////////////////////////////////////////////////////////////////////////

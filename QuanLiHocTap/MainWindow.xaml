@@ -111,8 +111,8 @@
                         <TextBlock Text="VT" Foreground="White"  FontSize="11" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" />
                     </Border>
                     <StackPanel Margin="10,0">
-                        <TextBlock Text="Nguyễn Văn Thành" Foreground="White" FontWeight="Bold"/>
-                        <TextBlock Text="Học sinh" Foreground="#94A3B8" FontSize="11"/>
+                        <TextBlock Text="" x:Name="txtUserName" Foreground="White" FontWeight="Bold"/>
+                        <TextBlock Text="" x:Name="txtUserRole" Foreground="#94A3B8" FontSize="11"/>
                     </StackPanel>
                 </StackPanel>
             </Button>

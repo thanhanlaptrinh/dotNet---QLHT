@@ -1,4 +1,5 @@
-﻿using System;
+﻿using QuanLiHocTap.Repository;
+using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Windows;
@@ -24,7 +25,9 @@ namespace QuanLiHocTap.Views.Windows
 
         private async void buttonLogin_Click(object sender, RoutedEventArgs e)
         {
-            if (txtUsername.Text == "ad" && txtPassword.Password == "1")
+            UserReponsitory userReponsitory = new UserReponsitory();
+            int result = userReponsitory.Login(txtUsername.Text, txtPassword.Password);
+            if (result==1)
             {
                 MainWindow main = new MainWindow();
                 main.Show();

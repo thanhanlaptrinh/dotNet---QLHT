@@ -1,4 +1,6 @@
-﻿using QuanLiHocTap.Repository;
+﻿using Microsoft.Data.SqlClient;
+using QuanLiHocTap.Data;
+using QuanLiHocTap.Repository;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -37,13 +39,13 @@ namespace QuanLiHocTap.ViewModel
                 OnPropertyChanged();
             }
         }
-        private int _studentRepository;
-        public int StudentRepository
+        private int _reviewRequestsCount;
+        public int ReviewRequestsCount
         {
-            get { return _studentRepository; }
+            get { return _reviewRequestsCount; }
             set
             {
-                _studentRepository = value;
+                _reviewRequestsCount = value;
                 OnPropertyChanged();
             }
         }
@@ -59,6 +61,35 @@ namespace QuanLiHocTap.ViewModel
         }
 
         //======================================List==============================================
+        private ObservableCollection<GradeStatusModel> _gradeStatuses = new ObservableCollection<GradeStatusModel>();
+        public ObservableCollection<GradeStatusModel> GradeStatuses
+        {
+            get { return _gradeStatuses; }
+            set { 
+                _gradeStatuses = value; 
+                OnPropertyChanged(); 
+            }
+        }
+
+        private ObservableCollection<RecentRegistrationModel> _recentRegistrations = new ObservableCollection<RecentRegistrationModel>();
+        public ObservableCollection<RecentRegistrationModel> RecentRegistrations
+        {
+            get { return _recentRegistrations; }
+            set { 
+                _recentRegistrations = value; 
+                OnPropertyChanged(); 
+            }
+        }
+
+        private ObservableCollection<WorkflowStepModel> _workflowSteps = new ObservableCollection<WorkflowStepModel>();
+        public ObservableCollection<WorkflowStepModel> WorkflowSteps
+        {
+            get { return _workflowSteps; }
+            set { 
+                _workflowSteps = value; 
+                OnPropertyChanged(); 
+            }
+        }
         //======================================Contructor========================================
         public DashboardViewModel()
         {
@@ -70,10 +101,20 @@ namespace QuanLiHocTap.ViewModel
         {
             try
             {
-                StudentRepository studentReponsitory = new StudentRepository();
                 TotalStudents = studentReponsitory.Count_Students();
-                EnrollmentRepository enrollmentRepository = new EnrollmentRepository();
                 TotalEnrollments=enrollmentRepository.Count_Enrollment();
+                PendingGradesCount = gradeReponsitory.GetPendingGradesCount();
+                ReviewRequestsCount = recheckRepository.countRechecks();
+                RegisteredCredits = enrollmentRepository.Count_Credits();
+
+                GradeStatuses.Clear();
+                GradeStatuses = courseReponsitory.GetGradeStatus();
+
+                RecentRegistrations.Clear();
+                RecentRegistrations = enrollmentRepository.GetRecent();
+
+                WorkflowSteps.Clear();
+                WorkflowSteps = courseReponsitory.GetWorkflowStep();
             }
             catch (Exception ex)
             {

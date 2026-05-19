@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\repository\\enrollment.repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\repository\\enrollment.repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\repository\\coursereponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\repository\\coursereponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\viewmodel\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\viewmodel\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,32 +19,96 @@
       "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\repository\\enrollment.repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\repository\\enrollment.repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\views\\dashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\views\\dashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\views\\dashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\views\\dashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\repository\\gradereponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\repository\\gradereponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\repository\\userreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\repository\\userreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\data\\dashboardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\data\\dashboardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\views\\offeringbrowserview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\views\\offeringbrowserview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\repository\\recheckrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\repository\\recheckrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\views\\gradeapprovalview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\views\\gradeapprovalview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\helper\\globalvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\helper\\globalvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\helper\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\helper\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\views\\windows\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\views\\windows\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\views\\windows\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\views\\windows\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\views\\accountview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\views\\accountview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\views\\windows\\sidebar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\views\\windows\\sidebar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\quanlihoctap.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\quanlihoctap.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\views\\offeringbrowserview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\views\\offeringbrowserview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|d:\\do an hoc phan lop\\dot net(hk2-2026)\\qlhoctap\\dotnet---qlht\\quanlihoctap\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD06A6-EB47-AD55-D300-ADD4547FB106}|QuanLiHocTap\\QuanLiHocTap.csproj|solutionrelative:quanlihoctap\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,87 +118,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StudentRepository.cs",
-              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Repository\\StudentRepository.cs",
-              "RelativeDocumentMoniker": "QuanLiHocTap\\Repository\\StudentRepository.cs",
-              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Repository\\StudentRepository.cs",
-              "RelativeToolTip": "QuanLiHocTap\\Repository\\StudentRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "GradeReponsitory.cs",
+              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Repository\\GradeReponsitory.cs",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\Repository\\GradeReponsitory.cs",
+              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Repository\\GradeReponsitory.cs",
+              "RelativeToolTip": "QuanLiHocTap\\Repository\\GradeReponsitory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T17:42:39.496Z",
+              "WhenOpened": "2026-05-19T17:52:50.476Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GlobalVariable.cs",
+              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Helper\\GlobalVariable.cs",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\Helper\\GlobalVariable.cs",
+              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Helper\\GlobalVariable.cs",
+              "RelativeToolTip": "QuanLiHocTap\\Helper\\GlobalVariable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T17:32:09.073Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Enrollment.Repository.cs",
-              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Repository\\Enrollment.Repository.cs",
-              "RelativeDocumentMoniker": "QuanLiHocTap\\Repository\\Enrollment.Repository.cs",
-              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Repository\\Enrollment.Repository.cs",
-              "RelativeToolTip": "QuanLiHocTap\\Repository\\Enrollment.Repository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T17:58:06.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "DashboardViewModel.cs",
               "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\ViewModel\\DashboardViewModel.cs",
               "RelativeDocumentMoniker": "QuanLiHocTap\\ViewModel\\DashboardViewModel.cs",
               "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\ViewModel\\DashboardViewModel.cs",
               "RelativeToolTip": "QuanLiHocTap\\ViewModel\\DashboardViewModel.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAmwCQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAGQAAAAAAAAAAADwv34AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T17:48:35.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OfferingBrowserView.xaml",
-              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Views\\OfferingBrowserView.xaml",
-              "RelativeDocumentMoniker": "QuanLiHocTap\\Views\\OfferingBrowserView.xaml",
-              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Views\\OfferingBrowserView.xaml",
-              "RelativeToolTip": "QuanLiHocTap\\Views\\OfferingBrowserView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-18T17:48:10.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AccountView.xaml",
-              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Views\\AccountView.xaml",
-              "RelativeDocumentMoniker": "QuanLiHocTap\\Views\\AccountView.xaml",
-              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Views\\AccountView.xaml",
-              "RelativeToolTip": "QuanLiHocTap\\Views\\AccountView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-18T17:48:09.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DashboardView.xaml.cs",
-              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Views\\DashboardView.xaml.cs",
-              "RelativeDocumentMoniker": "QuanLiHocTap\\Views\\DashboardView.xaml.cs",
-              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Views\\DashboardView.xaml.cs",
-              "RelativeToolTip": "QuanLiHocTap\\Views\\DashboardView.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T17:44:52.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DashboardView.xaml",
               "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Views\\DashboardView.xaml",
               "RelativeDocumentMoniker": "QuanLiHocTap\\Views\\DashboardView.xaml",
@@ -138,29 +172,279 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseReponsitory.cs",
+              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Repository\\CourseReponsitory.cs",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\Repository\\CourseReponsitory.cs",
+              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Repository\\CourseReponsitory.cs",
+              "RelativeToolTip": "QuanLiHocTap\\Repository\\CourseReponsitory.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:38:04.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enrollment.Repository.cs",
+              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Repository\\Enrollment.Repository.cs",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\Repository\\Enrollment.Repository.cs",
+              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Repository\\Enrollment.Repository.cs",
+              "RelativeToolTip": "QuanLiHocTap\\Repository\\Enrollment.Repository.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAYwFUAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T17:58:06.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "DashboardModel.cs",
+              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Data\\DashboardModel.cs",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\Data\\DashboardModel.cs",
+              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Data\\DashboardModel.cs",
+              "RelativeToolTip": "QuanLiHocTap\\Data\\DashboardModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:09:49.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RecheckRepository.cs",
+              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Repository\\RecheckRepository.cs",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\Repository\\RecheckRepository.cs",
+              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Repository\\RecheckRepository.cs",
+              "RelativeToolTip": "QuanLiHocTap\\Repository\\RecheckRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:18:44.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GradeApprovalView.xaml",
+              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Views\\GradeApprovalView.xaml",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\Views\\GradeApprovalView.xaml",
+              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Views\\GradeApprovalView.xaml",
+              "RelativeToolTip": "QuanLiHocTap\\Views\\GradeApprovalView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-19T18:33:18.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\MainWindow.xaml.cs",
+              "RelativeToolTip": "QuanLiHocTap\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwCkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T17:11:29.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\MainWindow.xaml",
+              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\MainWindow.xaml",
+              "RelativeToolTip": "QuanLiHocTap\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-19T17:10:53.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SideBar.xaml",
+              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Views\\Windows\\SideBar.xaml",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\Views\\Windows\\SideBar.xaml",
+              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Views\\Windows\\SideBar.xaml",
+              "RelativeToolTip": "QuanLiHocTap\\Views\\Windows\\SideBar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-19T17:10:41.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\ViewModel\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\ViewModel\\RelayCommand.cs",
+              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\ViewModel\\RelayCommand.cs",
+              "RelativeToolTip": "QuanLiHocTap\\ViewModel\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T17:10:24.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Views\\Windows\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\Views\\Windows\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Views\\Windows\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "QuanLiHocTap\\Views\\Windows\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAxwBwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T16:40:23.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Views\\Windows\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\Views\\Windows\\LoginWindow.xaml",
+              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Views\\Windows\\LoginWindow.xaml",
+              "RelativeToolTip": "QuanLiHocTap\\Views\\Windows\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-19T16:40:20.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Helper\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\Helper\\DatabaseHelper.cs",
+              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Helper\\DatabaseHelper.cs",
+              "RelativeToolTip": "QuanLiHocTap\\Helper\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T16:23:58.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Data\\App.config",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\Data\\App.config",
+              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Data\\App.config",
+              "RelativeToolTip": "QuanLiHocTap\\Data\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-19T16:21:07.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\App.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\App.xaml.cs",
+              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\App.xaml.cs",
+              "RelativeToolTip": "QuanLiHocTap\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T16:18:25.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "QuanLiHocTap.csproj",
+              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\QuanLiHocTap.csproj",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\QuanLiHocTap.csproj",
+              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\QuanLiHocTap.csproj",
+              "RelativeToolTip": "QuanLiHocTap\\QuanLiHocTap.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-19T16:17:25.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserReponsitory.cs",
+              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Repository\\UserReponsitory.cs",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\Repository\\UserReponsitory.cs",
+              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Repository\\UserReponsitory.cs",
+              "RelativeToolTip": "QuanLiHocTap\\Repository\\UserReponsitory.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T16:17:04.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\Models\\Enrollment.cs",
+              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Models\\Enrollment.cs",
+              "RelativeToolTip": "QuanLiHocTap\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T15:26:32.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\Repository\\StudentRepository.cs",
+              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "QuanLiHocTap\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T17:42:39.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OfferingBrowserView.xaml",
+              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Views\\OfferingBrowserView.xaml",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\Views\\OfferingBrowserView.xaml",
+              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Views\\OfferingBrowserView.xaml",
+              "RelativeToolTip": "QuanLiHocTap\\Views\\OfferingBrowserView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-18T17:48:10.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccountView.xaml",
+              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Views\\AccountView.xaml",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\Views\\AccountView.xaml",
+              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Views\\AccountView.xaml",
+              "RelativeToolTip": "QuanLiHocTap\\Views\\AccountView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-18T17:48:09.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardView.xaml.cs",
+              "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Views\\DashboardView.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLiHocTap\\Views\\DashboardView.xaml.cs",
+              "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Views\\DashboardView.xaml.cs",
+              "RelativeToolTip": "QuanLiHocTap\\Views\\DashboardView.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T17:44:52.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "QuanLiHocTap\\Data\\AppDbContext.cs",
               "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\Data\\AppDbContext.cs",
               "RelativeToolTip": "QuanLiHocTap\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T17:42:41.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-18T17:42:41.56Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "BaseViewModel.cs",
               "DocumentMoniker": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\ViewModel\\BaseViewModel.cs",
               "RelativeDocumentMoniker": "QuanLiHocTap\\ViewModel\\BaseViewModel.cs",
               "ToolTip": "D:\\DO AN HOC PHAN LOP\\DOT NET(HK2-2026)\\QLHocTap\\dotNet---QLHT\\QuanLiHocTap\\ViewModel\\BaseViewModel.cs",
               "RelativeToolTip": "QuanLiHocTap\\ViewModel\\BaseViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T17:28:52.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-18T17:28:52.123Z"
             }
           ]
         }

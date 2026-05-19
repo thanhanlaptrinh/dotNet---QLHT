@@ -13,7 +13,7 @@ namespace QuanLiHocTap.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         { 
-            optionsBuilder.UseSqlServer("Data Source=QUOTHANH;Initial Catalog = TechShop; Integrated Security = True; Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=True;");
+            optionsBuilder.UseSqlServer("Data Source=QUOTHANH;Initial Catalog=AcademicDB;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=True;");
             //optionsBuilder.UseSqlServer(
             //    "Server=localhost;" +
             //    "Database=QuanLiHocTap;" +
